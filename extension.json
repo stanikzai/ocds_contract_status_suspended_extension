@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en": "Contract Amendment Type"
+  },
+  "description": {
+    "en": "The contract amendment type can be used to record the type of amendment brought into contract"
+  },
+  "documentationUrl": {
+    "en": "https://github.com/ocds_contract-amendment_type_extension"
+  },
+  "schemas": [
+    "release-schema.json"
+  ],
+  "compatibility": [
+    "1.1"
+  ]
+}

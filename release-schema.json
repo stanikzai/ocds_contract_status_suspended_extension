@@ -1,0 +1,374 @@
+{
+  "ocid": "ocds-afalqw-MoD-G-0001|1",
+  "id": "5c10b7ed7e0a947c1637cc0d-MoD-G-0001|1",
+  "contract_number": "MoD-G-0001|1",
+  "date": "2018-12-12T11:55:33+04:30",
+  "language": "prs-AF",
+  "tag": [
+    "contract",
+    "implementation"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "name": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد",
+      "id": "AF-TIN-1040406017",
+      "identifier": {
+        "scheme": "AF-TIN",
+        "id": "1040406017",
+        "legalName": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد"
+      },
+      "roles": [
+        "payee",
+        "supplier"
+      ]
+    },
+    {
+      "name": "وزارت دفاع ملی",
+      "id": "AF-COA-22",
+      "identifier": {
+        "scheme": "AF-COA",
+        "id": "22",
+        "legalName": "وزارت دفاع ملی"
+      },
+      "roles": [
+        "procuringEntity"
+      ],
+      "address": {
+        "streetAddress": null,
+        "locality": null,
+        "region": "مرکز",
+        "postalCode": null,
+        "countryName": "افغانستان"
+      },
+      "contactPoint": {
+        "name": "عبدالحی",
+        "email": "ندارد",
+        "telephone": "0202612126"
+      }
+    },
+    {
+      "name": "وزارت مالیه",
+      "id": "AF-COA-20",
+      "identifier": {
+        "scheme": "AF-COA",
+        "id": "20",
+        "legalName": "وزارت مالیه"
+      },
+      "roles": [
+        "payer"
+      ],
+      "address": {
+        "streetAddress": null,
+        "locality": null,
+        "region": "مرکز",
+        "postalCode": null,
+        "countryName": "افغانستان"
+      },
+      "contactPoint": {
+        "name": "",
+        "email": "",
+        "telephone": "",
+        "faxNumber": ""
+      }
+    }
+  ],
+  "tender": {
+    "id": "MoD-G-0001|1",
+    "mainProcurementCategory": "goods",
+    "procuringEntity": {
+      "name": "وزارت دفاع ملی",
+      "id": "AF-COA-22"
+    }
+  },
+  "awards": [
+    {
+      "id": "MoD-G-0001|1",
+      "suppliers": [
+        {
+          "name": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد",
+          "id": "AF-TIN-1040406017"
+        }
+      ]
+    }
+  ],
+  "contracts": [
+    {
+      "id": "MoD-G-0001|1",
+      "awardID": "MoD-G-0001|1",
+      "title": "تهیه و تدارک  یک قلم مواد اعاشوی (نان خشک طبخ شده) ضرورت قطعات و جزوتام های، مؤسسات و ادارات مرکز و ساحوی اردوی ملی برای 9 ماه سال مالی 1395 در صورت لزوم 12 ماهه سال مالی 1396 در 7 لات با در نظر داشت محلات تحویلدهی به روش داوطلبی باز داخلی به نوع قرارداد چهارچوبی)- بخش (دوم،پنجم، ششم و هفتم)\n\n",
+      "description": "تهیه و تدارک  یک قلم مواد اعاشوی (نان خشک طبخ شده) ضرورت قطعات و جزوتام های، مؤسسات و ادارات مرکز و ساحوی اردوی ملی برای 9 ماه سال مالی 1395 در صورت لزوم 12 ماهه سال مالی 1396 در 7 لات با در نظر داشت محلات تحویلدهی به روش داوطلبی باز داخلی به نوع قرارداد چهارچوبی)- بخش (دوم،پنجم، ششم و هفتم)\n\n",
+      "status": "terminated",
+      "dateSigned": "2016-04-19T00:00:00+04:30",
+      "period": {
+        "startDate": "2016-03-20T00:00:00+04:30",
+        "endDate": "2017-02-28T00:00:00+04:30"
+      },
+      "value": {
+        "amount": 687087218,
+        "currency": "AFN"
+      },
+      "documents": [
+        {
+          "id": 2112,
+          "documentType": "contractNotice",
+          "title": "agreement",
+          "description": "موافقت نامه",
+          "url": "http://ocds.ageops.net/api/contract-detail/1024/0201_1_00da+Letter+of+Agreement.pdf",
+          "datePublished": "2018-01-20T13:38:00+04:30",
+          "dateModified": "2018-12-12T11:55:33+04:30",
+          "format": "application/pdf",
+          "language": "prs-AF"
+        },
+        {
+          "id": 2114,
+          "documentType": "contractDraft",
+          "title": "contract_special_conditions",
+          "description": "شرایط خاص قرارداد",
+          "url": "http://ocds.ageops.net/api/contract-detail/1024/0201_3_00da+Special+Conditions+of+Contract.pdf",
+          "datePublished": "2018-01-20T13:38:00+04:30",
+          "dateModified": "2018-12-12T11:55:33+04:30",
+          "format": "application/pdf",
+          "language": "prs-AF"
+        },
+        {
+          "id": 3474,
+          "documentType": "contractNotice",
+          "title": "agreement",
+          "description": "موافقت نامه",
+          "url": "http://ocds.ageops.net/api/contract-detail/12/0201_1_00da+Letter+of+Agreement.pdf",
+          "datePublished": "2018-01-20T13:38:00+04:30",
+          "dateModified": "2018-12-12T11:55:33+04:30",
+          "format": "application/pdf",
+          "language": "prs-AF"
+        },
+        {
+          "id": 3476,
+          "documentType": "contractDraft",
+          "title": "contract_special_conditions",
+          "description": "شرایط خاص قرارداد",
+          "url": "http://ocds.ageops.net/api/contract-detail/12/0201_3_00da+Special+Conditions+of+Contract.pdf",
+          "datePublished": "2018-01-20T13:38:00+04:30",
+          "dateModified": "2018-12-12T11:55:33+04:30",
+          "format": "application/pdf",
+          "language": "prs-AF"
+        }
+      ],
+      "amendments": [
+        {
+          "id": "311",
+          "type": "تعدیل زمانی و پولی",
+          "date": "2016-12-20T00:00:00+04:30",
+          "description": "تعدیل در قیمت و معیاد قرارداد صورت گرفته است که قیمت قرارداد را از 549669774 افغانی به 687087218 افغانی و معیاد قرارداد را از تاریخ 2016-12-20  به تاریخ 2017-02-28 افزایش داده است.",
+          "amendsReleaseID": "5c10b6e07e0a9475f50d7015-MoD-G-0001|1",
+          "releaseID": "5c10b7ed7e0a947c1637cc0d-MoD-G-0001|1",
+          "rationale": "با آنکه پروسه تدارکاتی جهت رفع نیازمندی های سال اینده موفقانه پیشبرده میشود، لازم خواهد بود که بطور احتیاطی و جلوگیری از احتمال ناغگی قطعات و جزوتام ها ، بمنظور اکمالات به موقع و آمادگی عملیات شفق پیش بین بوده و تدابیر مؤثر فراهم گردد."
+        }
+      ],
+      "implementation": {
+        "documents": [
+          {
+            "id": 10987,
+            "documentType": "financialProgressReport",
+            "title": "contract_M16_payment_form",
+            "description": "فورمه م 16 پرداخت های قرارداد",
+            "url": "http://ocds.ageops.net/api/contractProgress/paymentAndPhysicalProgress/1527397189--%D9%81%D8%B1%D9%85+%D9%85+16.pdf",
+            "datePublished": "2018-01-20T13:38:00+04:30",
+            "dateModified": "2018-05-27T04:59:49+04:30",
+            "format": "application/pdf",
+            "language": "prs-AF"
+          },
+          {
+            "id": 10988,
+            "documentType": "financialProgressReport",
+            "title": "contract_M16_payment_form",
+            "description": "فورمه م 16 پرداخت های قرارداد",
+            "url": "http://ocds.ageops.net/api/contractProgress/paymentAndPhysicalProgress/1527397211--%D9%81%D8%B1%D9%85+%D9%85+16.pdf",
+            "datePublished": "2018-01-20T13:38:00+04:30",
+            "dateModified": "2018-05-27T05:00:11+04:30",
+            "format": "application/pdf",
+            "language": "prs-AF"
+          }
+        ],
+        "transactions": [
+          {
+            "id": "3810",
+            "date": "2016-04-17T00:00:00+04:30",
+            "value": {
+              "amount": 79396754.83,
+              "currency": "AFN"
+            },
+            "payer": {
+              "name": "وزارت مالیه",
+              "id": "AF-COA-20"
+            },
+            "payee": {
+              "name": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد",
+              "id": "AF-TIN-1040406017"
+            }
+          },
+          {
+            "id": "3811",
+            "date": "2016-05-18T00:00:00+04:30",
+            "value": {
+              "amount": 42752083.17,
+              "currency": "AFN"
+            },
+            "payer": {
+              "name": "وزارت مالیه",
+              "id": "AF-COA-20"
+            },
+            "payee": {
+              "name": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد",
+              "id": "AF-TIN-1040406017"
+            }
+          },
+          {
+            "id": "3812",
+            "date": "2016-06-18T00:00:00+04:30",
+            "value": {
+              "amount": 61074419,
+              "currency": "AFN"
+            },
+            "payer": {
+              "name": "وزارت مالیه",
+              "id": "AF-COA-20"
+            },
+            "payee": {
+              "name": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد",
+              "id": "AF-TIN-1040406017"
+            }
+          },
+          {
+            "id": "3813",
+            "date": "2016-07-19T00:00:00+04:30",
+            "value": {
+              "amount": 61074419,
+              "currency": "AFN"
+            },
+            "payer": {
+              "name": "وزارت مالیه",
+              "id": "AF-COA-20"
+            },
+            "payee": {
+              "name": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد",
+              "id": "AF-TIN-1040406017"
+            }
+          },
+          {
+            "id": "3814",
+            "date": "2016-08-19T00:00:00+04:30",
+            "value": {
+              "amount": 61074419,
+              "currency": "AFN"
+            },
+            "payer": {
+              "name": "وزارت مالیه",
+              "id": "AF-COA-20"
+            },
+            "payee": {
+              "name": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد",
+              "id": "AF-TIN-1040406017"
+            }
+          },
+          {
+            "id": "3815",
+            "date": "2016-09-19T00:00:00+04:30",
+            "value": {
+              "amount": 61074419,
+              "currency": "AFN"
+            },
+            "payer": {
+              "name": "وزارت مالیه",
+              "id": "AF-COA-20"
+            },
+            "payee": {
+              "name": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد",
+              "id": "AF-TIN-1040406017"
+            }
+          },
+          {
+            "id": "3816",
+            "date": "2016-10-20T00:00:00+04:30",
+            "value": {
+              "amount": 61074419,
+              "currency": "AFN"
+            },
+            "payer": {
+              "name": "وزارت مالیه",
+              "id": "AF-COA-20"
+            },
+            "payee": {
+              "name": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد",
+              "id": "AF-TIN-1040406017"
+            }
+          },
+          {
+            "id": "3817",
+            "date": "2016-11-19T00:00:00+04:30",
+            "value": {
+              "amount": 61074419,
+              "currency": "AFN"
+            },
+            "payer": {
+              "name": "وزارت مالیه",
+              "id": "AF-COA-20"
+            },
+            "payee": {
+              "name": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد",
+              "id": "AF-TIN-1040406017"
+            }
+          },
+          {
+            "id": "3818",
+            "date": "2016-12-19T00:00:00+04:30",
+            "value": {
+              "amount": 61074422,
+              "currency": "AFN"
+            },
+            "payer": {
+              "name": "وزارت مالیه",
+              "id": "AF-COA-20"
+            },
+            "payee": {
+              "name": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد",
+              "id": "AF-TIN-1040406017"
+            }
+          },
+          {
+            "id": "17689",
+            "date": "2017-01-18T00:00:00+04:30",
+            "value": {
+              "amount": 68708721.75,
+              "currency": "AFN"
+            },
+            "payer": {
+              "name": "وزارت مالیه",
+              "id": "AF-COA-20"
+            },
+            "payee": {
+              "name": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد",
+              "id": "AF-TIN-1040406017"
+            }
+          },
+          {
+            "id": "17690",
+            "date": "2017-02-17T00:00:00+04:30",
+            "value": {
+              "amount": 68708722.25,
+              "currency": "AFN"
+            },
+            "payer": {
+              "name": "وزارت مالیه",
+              "id": "AF-COA-20"
+            },
+            "payee": {
+              "name": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد",
+              "id": "AF-TIN-1040406017"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
