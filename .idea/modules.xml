@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ocds_contract-amendment_type_extension.iml" filepath="$PROJECT_DIR$/.idea/ocds_contract-amendment_type_extension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ocds_contract-status_suspended_extension.iml" filepath="$PROJECT_DIR$/.idea/ocds_contract-status_suspended_extension.iml" />
     </modules>
   </component>
 </project>

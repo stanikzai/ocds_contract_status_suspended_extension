@@ -1,8 +1,7 @@
 {
-  "ocid": "ocds-afalqw-MoD-G-0001|1",
-  "id": "5c10b7ed7e0a947c1637cc0d-MoD-G-0001|1",
-  "contract_number": "MoD-G-0001|1",
-  "date": "2018-12-12T11:55:33+04:30",
+  "ocid": "ocds-afalqw-MOPW/420106/1393",
+  "id": "5c4101ec7e0a94643651b99e-MOPW/420106/1393",
+  "date": "2019-01-18T03:00:04+04:30",
   "language": "prs-AF",
   "tag": [
     "contract",
@@ -11,12 +10,12 @@
   "initiationType": "tender",
   "parties": [
     {
-      "name": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد",
-      "id": "AF-TIN-1040406017",
+      "name": "شرکت ساختمانی نوی سهاک",
+      "id": "AF-TIN-1024323014",
       "identifier": {
         "scheme": "AF-TIN",
-        "id": "1040406017",
-        "legalName": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد"
+        "id": "1024323014",
+        "legalName": "شرکت ساختمانی نوی سهاک"
       },
       "roles": [
         "payee",
@@ -24,12 +23,12 @@
       ]
     },
     {
-      "name": "وزارت دفاع ملی",
-      "id": "AF-COA-22",
+      "name": "وزارت فواید عامه",
+      "id": "AF-COA-42",
       "identifier": {
         "scheme": "AF-COA",
-        "id": "22",
-        "legalName": "وزارت دفاع ملی"
+        "id": "42",
+        "legalName": "وزارت فواید عامه"
       },
       "roles": [
         "procuringEntity"
@@ -42,9 +41,9 @@
         "countryName": "افغانستان"
       },
       "contactPoint": {
-        "name": "عبدالحی",
-        "email": "ندارد",
-        "telephone": "0202612126"
+        "name": "محمد عمر",
+        "email": "omaramin@nrap.gov.af",
+        "telephone": "0704048353"
       }
     },
     {
@@ -74,128 +73,149 @@
     }
   ],
   "tender": {
-    "id": "MoD-G-0001|1",
-    "mainProcurementCategory": "goods",
+    "id": "MOPW/420106/1393",
+    "mainProcurementCategory": "works",
     "procuringEntity": {
-      "name": "وزارت دفاع ملی",
-      "id": "AF-COA-22"
+      "name": "وزارت فواید عامه",
+      "id": "AF-COA-42"
     }
   },
-  "awards": [
+  "award": [
     {
-      "id": "MoD-G-0001|1",
+      "id": "MOPW/420106/1393",
       "suppliers": [
         {
-          "name": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد",
-          "id": "AF-TIN-1040406017"
+          "name": "شرکت ساختمانی نوی سهاک",
+          "id": "AF-TIN-1024323014"
         }
       ]
     }
   ],
   "contracts": [
     {
-      "id": "MoD-G-0001|1",
-      "awardID": "MoD-G-0001|1",
-      "title": "تهیه و تدارک  یک قلم مواد اعاشوی (نان خشک طبخ شده) ضرورت قطعات و جزوتام های، مؤسسات و ادارات مرکز و ساحوی اردوی ملی برای 9 ماه سال مالی 1395 در صورت لزوم 12 ماهه سال مالی 1396 در 7 لات با در نظر داشت محلات تحویلدهی به روش داوطلبی باز داخلی به نوع قرارداد چهارچوبی)- بخش (دوم،پنجم، ششم و هفتم)\n\n",
-      "description": "تهیه و تدارک  یک قلم مواد اعاشوی (نان خشک طبخ شده) ضرورت قطعات و جزوتام های، مؤسسات و ادارات مرکز و ساحوی اردوی ملی برای 9 ماه سال مالی 1395 در صورت لزوم 12 ماهه سال مالی 1396 در 7 لات با در نظر داشت محلات تحویلدهی به روش داوطلبی باز داخلی به نوع قرارداد چهارچوبی)- بخش (دوم،پنجم، ششم و هفتم)\n\n",
-      "status": "terminated",
-      "dateSigned": "2016-04-19T00:00:00+04:30",
+      "id": "MOPW/420106/1393",
+      "awardID": "MOPW/420106/1393",
+      "title": "اعمار سرک از پایان‌آب الی بشران (غرب انجیل) به طول مجموعی 20.653کیلومتر ولایت هرات، با فرش اسفالت",
+      "description": "اعمار سرک از پایان‌آب الی بشران (غرب انجیل) به طول مجموعی 20.653کیلومتر ولایت هرات، با فرش اسفالت",
+      "status": "active",
+      "suspended": true,
+      "dateSigned": "2015-08-31T00:00:00+04:30",
       "period": {
-        "startDate": "2016-03-20T00:00:00+04:30",
-        "endDate": "2017-02-28T00:00:00+04:30"
+        "startDate": "2015-09-02T00:00:00+04:30",
+        "endDate": "2018-02-28T00:00:00+04:30"
       },
       "value": {
-        "amount": 687087218,
+        "amount": 102789809.26,
         "currency": "AFN"
       },
       "documents": [
         {
-          "id": 2112,
+          "id": 4192,
           "documentType": "contractNotice",
           "title": "agreement",
           "description": "موافقت نامه",
-          "url": "http://ocds.ageops.net/api/contract-detail/1024/0201_1_00da+Letter+of+Agreement.pdf",
-          "datePublished": "2018-01-20T13:38:00+04:30",
-          "dateModified": "2018-12-12T11:55:33+04:30",
+          "url": "http://ocds.ageops.net/api/contract-detail/916/0201_1_00da+Letter+of+Agreement.pdf",
+          "datePublished": "2017-10-09T12:39:00+04:30",
+          "dateModified": "2019-01-18T03:00:04+04:30",
           "format": "application/pdf",
           "language": "prs-AF"
         },
         {
-          "id": 2114,
+          "id": 4194,
           "documentType": "contractDraft",
           "title": "contract_special_conditions",
           "description": "شرایط خاص قرارداد",
-          "url": "http://ocds.ageops.net/api/contract-detail/1024/0201_3_00da+Special+Conditions+of+Contract.pdf",
-          "datePublished": "2018-01-20T13:38:00+04:30",
-          "dateModified": "2018-12-12T11:55:33+04:30",
+          "url": "http://ocds.ageops.net/api/contract-detail/916/0201_3_00da+Special+Conditions+of+Contract.pdf",
+          "datePublished": "2017-10-09T12:39:00+04:30",
+          "dateModified": "2019-01-18T03:00:04+04:30",
           "format": "application/pdf",
           "language": "prs-AF"
         },
         {
-          "id": 3474,
+          "id": 8430,
           "documentType": "contractNotice",
           "title": "agreement",
           "description": "موافقت نامه",
-          "url": "http://ocds.ageops.net/api/contract-detail/12/0201_1_00da+Letter+of+Agreement.pdf",
-          "datePublished": "2018-01-20T13:38:00+04:30",
-          "dateModified": "2018-12-12T11:55:33+04:30",
+          "url": "http://ocds.ageops.net/api/contract-detail/794/0201_1_00da+Letter+of+Agreement.pdf",
+          "datePublished": "2017-10-09T12:39:00+04:30",
+          "dateModified": "2019-01-18T03:00:04+04:30",
           "format": "application/pdf",
           "language": "prs-AF"
         },
         {
-          "id": 3476,
+          "id": 8432,
           "documentType": "contractDraft",
           "title": "contract_special_conditions",
           "description": "شرایط خاص قرارداد",
-          "url": "http://ocds.ageops.net/api/contract-detail/12/0201_3_00da+Special+Conditions+of+Contract.pdf",
-          "datePublished": "2018-01-20T13:38:00+04:30",
-          "dateModified": "2018-12-12T11:55:33+04:30",
+          "url": "http://ocds.ageops.net/api/contract-detail/794/0201_3_00da+Special+Conditions+of+Contract.pdf",
+          "datePublished": "2017-10-09T12:39:00+04:30",
+          "dateModified": "2019-01-18T03:00:04+04:30",
           "format": "application/pdf",
           "language": "prs-AF"
+        },
+        {
+          "id": 8439,
+          "documentType": "contractSchedule",
+          "title": "action_plan",
+          "description": "پلان کاری",
+          "url": "http://ocds.ageops.net/api/contract-detail/794/1001_2_00en+Baseline+Work+Schedule.jpg",
+          "datePublished": "2017-10-09T12:39:00+04:30",
+          "dateModified": "2019-01-18T03:00:04+04:30",
+          "format": "image/jpg",
+          "language": "en"
         }
       ],
       "amendments": [
         {
-          "id": "311",
-          "type": "تعدیل زمانی و پولی",
-          "date": "2016-12-20T00:00:00+04:30",
-          "description": "تعدیل در قیمت و معیاد قرارداد صورت گرفته است که قیمت قرارداد را از 549669774 افغانی به 687087218 افغانی و معیاد قرارداد را از تاریخ 2016-12-20  به تاریخ 2017-02-28 افزایش داده است.",
-          "amendsReleaseID": "5c10b6e07e0a9475f50d7015-MoD-G-0001|1",
-          "releaseID": "5c10b7ed7e0a947c1637cc0d-MoD-G-0001|1",
-          "rationale": "با آنکه پروسه تدارکاتی جهت رفع نیازمندی های سال اینده موفقانه پیشبرده میشود، لازم خواهد بود که بطور احتیاطی و جلوگیری از احتمال ناغگی قطعات و جزوتام ها ، بمنظور اکمالات به موقع و آمادگی عملیات شفق پیش بین بوده و تدابیر مؤثر فراهم گردد."
+          "id": "116",
+          "type": "تعدیل زمانی",
+          "date": "2016-06-01T00:00:00+04:30",
+          "description": "تعدیل در معیاد قرارداد صورت گرفته است که معیاد قرارداد را از تاریخ 2016-06-01 به تاریخ 2017-04-30 افزایش داده است.",
+          "amendsReleaseID": null,
+          "releaseID": "5c4101ec7e0a94643651b99e-MOPW/420106/1393",
+          "rationale": "دلایل تاخیر در پروژه : •\tبنابر موجودیت فاصله زمانی بین سروی و دیزاین، در بعضی از ساحات، دیزاین به ساحه قابل تطبیق نبوده و همچنان موجودیت سنگفرش در سطح سرک، ایجاب سروی و دیزاین دو باره نموده که سروی و دیزاین دوباره مدت 70 روز را در بر گرفت. •\tسروی محیطی و اجتماعی جهت تثبیت خانه ها، دیوار ها که در مسیر سرک تخریب گردیده، جهت فراهم نمودن قناعت اهالی و مالکین املاک و اخذ تعهد کتبی مدت 86 روز را در بر گرفت. •\tمشکلات امنیتی، حمله مسلحانه مخالفین دولت بالای پرسونل و ماشینری شرکت مؤرخ اول جون 2016 که در نتیجه یکعراده موتر لاری (دمپترک) بکلی حریق، یکعراده اسکواترقسماً تخریب و دو نفر از پرسونل شرکت توسط مخالفین اختطاف گردیده که این امر باعث توقف کار برای مدت 27 روز گردید. •\tموجودیت پایه های برق در امتداد سرک، و برداشتن پایه ها و دوباره جابجا کردن آنها باعث کندی پروسه کاری برای مدت 33 روز گردید. دلایل اضافه کاری : -اضافه شدن ایتم های کاری( تخریت دیواراستنادی سابقه، کندن درختها در مسیر سرک، غرس نهال در مسیر سرک،تخریب کاری خانه ها درمسیر سرک) اضافه شدن سنگ کاری واضافه شدن سنگ فرش در مسیر سرک اضافه شدن خط اندازی و لیول کاری اضافه شدن کندن کاری مواد نرم در مسیر سرک اضافه شدن کندن کاری در بخش پلچک ها اضافه شدن کانکریت ریزی در قسمت پلچک ها"
+        },
+        {
+          "id": "121",
+          "type": "تعدیل زمانی",
+          "date": "2017-04-30T00:00:00+04:30",
+          "description": "تعدیل در معیاد قرارداد صورت گرفته است که معیاد قرارداد را از تاریخ 2017-04-30 به تاریخ 2018-02-28 افزایش داده است.",
+          "amendsReleaseID": null,
+          "releaseID": "5c4101ec7e0a94643651b99e-MOPW/420106/1393",
+          "rationale": "•\tمشکلات امنیتی، اخطار دادن قرادادی توسط اشخاص نامعلوم برای توقف اجرای کار در غیر آن منجر به اختطاف کارمندان و حریق کردن وسایل ساختمانی قراردادی خواهد گردید که از تاریخ 30 اپریل 2017 بدینسو اجرای کار توقف بوده و قراردادی نتوانست کار ها را در ساحه اغاز نماید که این امر باعث توقف اجرای کار به مدت 7 ماه (216 روز) گردید. •\tمشکلات امنیتی و شرایط نا مساعد کاری توسط قوماندانی امنیت و ریاست امنیه ولایت لغمان نیز تائید گردیده است."
         }
       ],
       "implementation": {
         "documents": [
           {
-            "id": 10987,
+            "id": 10552,
             "documentType": "financialProgressReport",
             "title": "contract_M16_payment_form",
             "description": "فورمه م 16 پرداخت های قرارداد",
-            "url": "http://ocds.ageops.net/api/contractProgress/paymentAndPhysicalProgress/1527397189--%D9%81%D8%B1%D9%85+%D9%85+16.pdf",
-            "datePublished": "2018-01-20T13:38:00+04:30",
-            "dateModified": "2018-05-27T04:59:49+04:30",
+            "url": "http://ocds.ageops.net/api/contractProgress/paymentAndPhysicalProgress/1525757489--%D9%85%D9%88%D8%AC%D9%88%D8%AF+%D9%86%DB%8C%D8%B3%D8%AA.pdf",
+            "datePublished": "2017-10-09T12:39:00+04:30",
+            "dateModified": "2018-05-08T05:31:29+04:30",
             "format": "application/pdf",
             "language": "prs-AF"
           },
           {
-            "id": 10988,
+            "id": 10556,
             "documentType": "financialProgressReport",
             "title": "contract_M16_payment_form",
             "description": "فورمه م 16 پرداخت های قرارداد",
-            "url": "http://ocds.ageops.net/api/contractProgress/paymentAndPhysicalProgress/1527397211--%D9%81%D8%B1%D9%85+%D9%85+16.pdf",
-            "datePublished": "2018-01-20T13:38:00+04:30",
-            "dateModified": "2018-05-27T05:00:11+04:30",
+            "url": "http://ocds.ageops.net/api/contractProgress/paymentAndPhysicalProgress/1525761214--%D9%85%D9%88%D8%AC%D9%88%D8%AF+%D9%86%DB%8C%D8%B3%D8%AA.pdf",
+            "datePublished": "2017-10-09T12:39:00+04:30",
+            "dateModified": "2018-05-08T06:33:34+04:30",
             "format": "application/pdf",
             "language": "prs-AF"
           }
         ],
         "transactions": [
           {
-            "id": "3810",
-            "date": "2016-04-17T00:00:00+04:30",
+            "id": "16876",
+            "date": "2017-11-20T00:00:00+04:30",
             "value": {
-              "amount": 79396754.83,
+              "amount": 27378061.64,
               "currency": "AFN"
             },
             "payer": {
@@ -203,127 +223,15 @@
               "id": "AF-COA-20"
             },
             "payee": {
-              "name": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد",
-              "id": "AF-TIN-1040406017"
+              "name": "شرکت ساختمانی نوی سهاک",
+              "id": "AF-TIN-1024323014"
             }
           },
           {
-            "id": "3811",
-            "date": "2016-05-18T00:00:00+04:30",
-            "value": {
-              "amount": 42752083.17,
-              "currency": "AFN"
-            },
-            "payer": {
-              "name": "وزارت مالیه",
-              "id": "AF-COA-20"
-            },
-            "payee": {
-              "name": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد",
-              "id": "AF-TIN-1040406017"
-            }
-          },
-          {
-            "id": "3812",
-            "date": "2016-06-18T00:00:00+04:30",
-            "value": {
-              "amount": 61074419,
-              "currency": "AFN"
-            },
-            "payer": {
-              "name": "وزارت مالیه",
-              "id": "AF-COA-20"
-            },
-            "payee": {
-              "name": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد",
-              "id": "AF-TIN-1040406017"
-            }
-          },
-          {
-            "id": "3813",
-            "date": "2016-07-19T00:00:00+04:30",
-            "value": {
-              "amount": 61074419,
-              "currency": "AFN"
-            },
-            "payer": {
-              "name": "وزارت مالیه",
-              "id": "AF-COA-20"
-            },
-            "payee": {
-              "name": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد",
-              "id": "AF-TIN-1040406017"
-            }
-          },
-          {
-            "id": "3814",
-            "date": "2016-08-19T00:00:00+04:30",
-            "value": {
-              "amount": 61074419,
-              "currency": "AFN"
-            },
-            "payer": {
-              "name": "وزارت مالیه",
-              "id": "AF-COA-20"
-            },
-            "payee": {
-              "name": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد",
-              "id": "AF-TIN-1040406017"
-            }
-          },
-          {
-            "id": "3815",
-            "date": "2016-09-19T00:00:00+04:30",
-            "value": {
-              "amount": 61074419,
-              "currency": "AFN"
-            },
-            "payer": {
-              "name": "وزارت مالیه",
-              "id": "AF-COA-20"
-            },
-            "payee": {
-              "name": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد",
-              "id": "AF-TIN-1040406017"
-            }
-          },
-          {
-            "id": "3816",
-            "date": "2016-10-20T00:00:00+04:30",
-            "value": {
-              "amount": 61074419,
-              "currency": "AFN"
-            },
-            "payer": {
-              "name": "وزارت مالیه",
-              "id": "AF-COA-20"
-            },
-            "payee": {
-              "name": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد",
-              "id": "AF-TIN-1040406017"
-            }
-          },
-          {
-            "id": "3817",
-            "date": "2016-11-19T00:00:00+04:30",
-            "value": {
-              "amount": 61074419,
-              "currency": "AFN"
-            },
-            "payer": {
-              "name": "وزارت مالیه",
-              "id": "AF-COA-20"
-            },
-            "payee": {
-              "name": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد",
-              "id": "AF-TIN-1040406017"
-            }
-          },
-          {
-            "id": "3818",
+            "id": "16834",
             "date": "2016-12-19T00:00:00+04:30",
             "value": {
-              "amount": 61074422,
+              "amount": 34046461.12,
               "currency": "AFN"
             },
             "payer": {
@@ -331,40 +239,8 @@
               "id": "AF-COA-20"
             },
             "payee": {
-              "name": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد",
-              "id": "AF-TIN-1040406017"
-            }
-          },
-          {
-            "id": "17689",
-            "date": "2017-01-18T00:00:00+04:30",
-            "value": {
-              "amount": 68708721.75,
-              "currency": "AFN"
-            },
-            "payer": {
-              "name": "وزارت مالیه",
-              "id": "AF-COA-20"
-            },
-            "payee": {
-              "name": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد",
-              "id": "AF-TIN-1040406017"
-            }
-          },
-          {
-            "id": "17690",
-            "date": "2017-02-17T00:00:00+04:30",
-            "value": {
-              "amount": 68708722.25,
-              "currency": "AFN"
-            },
-            "payer": {
-              "name": "وزارت مالیه",
-              "id": "AF-COA-20"
-            },
-            "payee": {
-              "name": "تجارتی و لوژستیکی نوی زاهد ذکی لمیتد",
-              "id": "AF-TIN-1040406017"
+              "name": "شرکت ساختمانی نوی سهاک",
+              "id": "AF-TIN-1024323014"
             }
           }
         ]
