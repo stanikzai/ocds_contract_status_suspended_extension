@@ -1,6 +1,6 @@
 # Contract Amendment Type
 
-[OCDS extensions](https://github.com/ocds_contract-amendment_type_extension) 
+[ocds_contract_status_suspended_extension](https://github.com/stanikzai/ocds_contract_status_suspended_extension) 
 
 The contract amendment type can be used to record the type of amendment brought into contract.
 

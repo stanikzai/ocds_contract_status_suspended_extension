@@ -1,12 +1,12 @@
 {
   "name": {
-    "en": "Contract Amendment Type"
+    "en": "Contract Status Suspended "
   },
   "description": {
-    "en": "The contract amendment type can be used to record the type of amendment brought into contract"
+    "en": "Most of the time a contract is suspended due to force majeure or any security issue. This status of the contract helps in tracking the status of a contract and why it is suspended and when it will be active again"
   },
   "documentationUrl": {
-    "en": "https://github.com/ocds_contract-amendment_type_extension"
+    "en": "https://github.com/stanikzai/ocds_contract_status_suspended_extension"
   },
   "schemas": [
     "release-schema.json"
